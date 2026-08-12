@@ -12,7 +12,6 @@ A robust and scalable **Hotel Management System Backend** built using **ASP.NET 
 * **Booking System:** Logic for room availability tracking and reservations.
 * **Orders & Services:** Management of guest requests and internal hotel orders.
 * **Validation & Error Handling:** Clean API responses with global exception handling.
-
 ---
 
 ## 🛠️ Tech Stack
